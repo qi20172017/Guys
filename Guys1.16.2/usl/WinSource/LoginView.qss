@@ -1,0 +1,7 @@
+QPushButton#btn_login {
+				background-color: red
+			}
+
+QPushButton[name="btn_regist"] {
+				background-color: blue
+			}
